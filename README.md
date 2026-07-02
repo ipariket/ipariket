@@ -4,7 +4,7 @@
   I build full-stack platforms and work on applied ML.
 </p>
 <p align="center">
-  <a href="https://pariket.com.np">pariket.com.np</a> &nbsp;|&nbsp;
+  <a href="https://pariket.com.np">pariket.com.np</a> &nbsp;
 </p>
 
 About
@@ -34,8 +34,8 @@ ML research project combining Mixture of Recursions with KV cache quantization.
 GitHub Stats
 
 <p align="center">
+
+
   <img src="https://github-readme-stats.vercel.app/api?username=ipariket&show_icons=true&theme=default&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipariket&layout=compact&hide_border=true" height="165" />
 </p>
-
-<p align="center"><sub>Open to collaborating on civic tech, ML, or Nepali community projects.</sub></p>
