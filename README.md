@@ -1,7 +1,6 @@
-**![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A1B9A&height=200&section=header&text=Pariket&fontSize=60&animation=fadeIn&fontColor=ffffff)
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:FF8C00,50:FFD700,75:00FF88,100:00D4FF&height=220&section=header&text=Pariket&fontSize=65&animation=twinkling&fontColor=ffffff&fontAlignY=35" width="100%" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Applied+ML+%2F+MLOps;CS+Student+%40+CSUDH;Building+MoR-TurboQuant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Applied+ML+%2F+MLOps;CS+Student+%40+CSUDH;Building+MoR-TurboQuant" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://pariket.com.np">pariket.com.np</a>
