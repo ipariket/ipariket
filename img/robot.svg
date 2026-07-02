@@ -1,0 +1,87 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d0d1a"/>
+      <stop offset="100%" stop-color="#1a0d2e"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="50%" stop-color="#FF0080"/>
+      <stop offset="100%" stop-color="#00FF88"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg)"/>
+
+  <!-- ground line -->
+  <line x1="0" y1="180" x2="900" y2="180" stroke="#00D4FF" stroke-width="1" opacity="0.3"/>
+
+  <!-- twinkling stars -->
+  <circle cx="80" cy="40" r="1.5" fill="#ffffff">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="30" r="1.5" fill="#ffffff">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="550" cy="50" r="1.5" fill="#ffffff">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="35" r="1.5" fill="#ffffff">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="60" r="1.5" fill="#ffffff">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- robot group: moves left to right, loops -->
+  <g filter="url(#glow)">
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="-60,0; 960,0" dur="6s" repeatCount="indefinite"/>
+
+      <!-- inner group: hop bounce -->
+      <g>
+        <animateTransform attributeName="transform" type="translate"
+          additive="sum"
+          values="0,0; 0,-28; 0,0; 0,-28; 0,0"
+          keyTimes="0;0.25;0.5;0.75;1"
+          dur="0.6s" repeatCount="indefinite"/>
+
+        <!-- legs -->
+        <rect x="18" y="130" width="10" height="30" rx="3" fill="#00D4FF"/>
+        <rect x="42" y="130" width="10" height="30" rx="3" fill="#00D4FF"/>
+
+        <!-- body -->
+        <rect x="10" y="80" width="50" height="55" rx="10" fill="url(#neon)"/>
+
+        <!-- arms -->
+        <rect x="-4" y="90" width="10" height="30" rx="4" fill="#FF0080"/>
+        <rect x="64" y="90" width="10" height="30" rx="4" fill="#FF0080"/>
+
+        <!-- head -->
+        <rect x="15" y="45" width="40" height="35" rx="8" fill="#0d0d1a" stroke="url(#neon)" stroke-width="3"/>
+
+        <!-- eyes -->
+        <circle cx="27" cy="62" r="4" fill="#00FF88">
+          <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="43" cy="62" r="4" fill="#00FF88">
+          <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite"/>
+        </circle>
+
+        <!-- antenna -->
+        <line x1="35" y1="45" x2="35" y2="30" stroke="#FFD700" stroke-width="3"/>
+        <circle cx="35" cy="27" r="4" fill="#FFD700">
+          <animate attributeName="opacity" values="0.4;1;0.4" dur="0.8s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+    </g>
+  </g>
+</svg>
