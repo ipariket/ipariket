@@ -7,9 +7,6 @@
 <p align="center">
   <a href="https://pariket.com.np">pariket.com.np</a>
 </p>
-<p align="center">
-  <a href="https://pariket.com.np">pariket.com.np</a>
-</p>
  <p align="center">
   <img src="https://raw.githubusercontent.com/ipariket/ipariket/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
