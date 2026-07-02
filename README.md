@@ -9,7 +9,7 @@
 
 About
 
-I'm CS student with intrest in machine learning. Most of my work sits at the intersection of tech, community platforms, and applied ML — Currently working on MoR-TurboQuant, a research project combining Mixture of Recursions with KV cache quantization.
+I'm CS student graduating in Summer 2026 with knowledge and skills involving MLOPS. Most of my work sits at the intersection of tech, community platforms, and applied ML — Currently working on MoR-TurboQuant, a research project combining Mixture of Recursions with KV cache quantization.
 
 
 ### Tech
