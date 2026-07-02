@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ipariket/ipariket/main/img/robot_v2.svg" width="100%" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=1000&color=FF0080,FF8C00,FFD700,00FF88,00D4FF&center=true&vCenter=true&width=500&height=70&lines=Hello I am " alt="Glowing name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&pause=1000&color=FF0080,FF8C00,FFD700,00FF88,00D4FF&center=true&vCenter=true&width=500&height=70&lines=Hello!" alt="Glowing name" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Applied+ML+%2F+MLOps;CS+Student+%40+CSUDH;Building+MoR-TurboQuant" alt="Typing SVG" />
