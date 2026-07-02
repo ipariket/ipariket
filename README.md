@@ -1,4 +1,4 @@
-[Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A1B9A&height=200&section=header&text=Pariket&fontSize=60&animation=fadeIn&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A1B9A&height=200&section=header&text=Pariket&fontSize=60&animation=fadeIn&fontColor=ffffff)
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Applied+ML+%2F+MLOps;CS+Student+%40+CSUDH;Building+MoR-TurboQuant" alt="Typing SVG" />
