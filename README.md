@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A1B9A&height=200&section=header&text=Pariket&fontSize=60&animation=fadeIn&fontColor=ffffff)
+**![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A1B9A&height=200&section=header&text=Pariket&fontSize=60&animation=fadeIn&fontColor=ffffff)
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Applied+ML+%2F+MLOps;CS+Student+%40+CSUDH;Building+MoR-TurboQuant" alt="Typing SVG" />
@@ -6,9 +6,11 @@
 <p align="center">
   <a href="https://pariket.com.np">pariket.com.np</a>
 </p>
-### About
- 
-I'm a CS student graduating in Summer 2026 with knowledge and skills involving MLOps. Most of my work sits at the intersection of tech, community platforms, and applied ML — currently working on MoR-TurboQuant, a research project combining Mixture of Recursions with KV cache quantization.
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/ipariket/ipariket/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+ABOUT ME : 
+I'm a CS student graduating in Summer 2026 with knowledge and skills involving MLOps. Most of my work sits at the intersection of tech, community platforms, and applied ML,currently working on MoR-TurboQuant, a research project combining Mixture of Recursions with KV cache quantization.
  
 ### Tech
  
@@ -58,16 +60,3 @@ Browser-native approximate solver for the Traveling Salesman Problem, tuned for 
  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Algorithms-263238?style=flat-square&logo=leetcode&logoColor=white" />
-### GitHub Stats
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipariket&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipariket&layout=compact&hide_border=true" height="165" />
-</p>
-### Contribution Snake
- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ipariket/ipariket/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,100:2E9EF7&height=100&section=footer)
- 
