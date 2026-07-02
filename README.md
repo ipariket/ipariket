@@ -9,7 +9,7 @@
 
 About
 
-I'm a full-stack developer with a growing focus on machine learning. Most of my work sits at the intersection of tech, community platforms, and applied ML — Currently working on MoR-TurboQuant, a research project combining Mixture of Recursions with KV cache quantization.
+I'm CS student with intrest in machine learning. Most of my work sits at the intersection of tech, community platforms, and applied ML — Currently working on MoR-TurboQuant, a research project combining Mixture of Recursions with KV cache quantization.
 
 
 Tech
@@ -31,11 +31,3 @@ MoR-TurboQuant
 ML research project combining Mixture of Recursions with KV cache quantization.
 
 
-GitHub Stats
-
-<p align="center">
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ipariket&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipariket&layout=compact&hide_border=true" height="165" />
-</p>
